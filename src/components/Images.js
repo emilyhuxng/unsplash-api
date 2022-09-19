@@ -5,8 +5,8 @@ import { BsSuitHeart, BsSuitHeartFill } from "react-icons/bs";
 import LikeContext from "../store/like-context";
 import QueryContext from "../store/query-context";
 
-require('dotenv').config();
-const CLIENT_ID = process.env.API_KEY;
+// require('dotenv').config();
+const CLIENT_ID = process.env.REACT_APP_API_KEY;
 
 const Images = () => {
   const [images, setImages] = useState([]);
