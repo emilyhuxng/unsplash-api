@@ -19,4 +19,6 @@ In the root directory (the same level as the `.env_example` file), create a file
 
 ## Usage
 
-Run `npm start`. This should open up a tab in your default browser. Search using the search bar. Clicking the color icons will sort by that color. Clicking the like button will save the images to your liked tab. You can click on the "Liked" button in the top right to view your liked photos and "Home" to navigate back to the home page.
+Run `npm start`. This should open up a tab in your default browser. 
+
+Search using the search bar. Clicking the color icons will sort by that color. Clicking the like button will save the images to your liked tab. You can click on the "Liked" button in the top right to view your liked photos and "Home" to navigate back to the home page.
